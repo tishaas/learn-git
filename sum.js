@@ -1,3 +1,3 @@
 let a=9;
 let b=10;
-console.log(a+b)
+console.log("The sum is",a+b)
